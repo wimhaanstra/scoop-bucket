@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.1.2/noodge_0.1.2_windows_amd64.zip",
+            "bin": [
+                "noodge.exe"
+            ],
+            "hash": "6c1946feb9b56b46610e3f60791993bc278b9663d10a6bd6d476e6c5fe839975"
+        },
+        "arm64": {
+            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.1.2/noodge_0.1.2_windows_arm64.zip",
+            "bin": [
+                "noodge.exe"
+            ],
+            "hash": "9ceec3c64a54f5f78e9aa5560cbef582d29cd857339e02162cf069117337517b"
+        }
+    },
+    "homepage": "https://github.com/wimhaanstra/noodge",
+    "license": "MIT",
+    "description": "A task runner where every command carries its own documentation."
+}
