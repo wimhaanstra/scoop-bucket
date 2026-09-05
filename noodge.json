@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.2.1/noodge_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.2.2/noodge_0.2.2_windows_amd64.zip",
             "bin": [
                 "noodge.exe"
             ],
-            "hash": "55b39acd1266645d3f05468faebf462e6d603cfea1bcdc917244b6128f36850a"
+            "hash": "99ce9258935cbb83f63ace79649611b995e887531a7cffb06b72a5f49abf3ffe"
         },
         "arm64": {
-            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.2.1/noodge_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/wimhaanstra/noodge/releases/download/v0.2.2/noodge_0.2.2_windows_arm64.zip",
             "bin": [
                 "noodge.exe"
             ],
-            "hash": "42ba337530de4079d02febb2a52bbf9dfec1cc47a60d5a51289a4285e0b54253"
+            "hash": "f5256138a30c2a7c1e2cd20684d42b8d93f73d29eb5d80134f879c71437f8950"
         }
     },
     "homepage": "https://github.com/wimhaanstra/noodge",
